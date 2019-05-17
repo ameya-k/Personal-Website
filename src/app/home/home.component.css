@@ -1,0 +1,13 @@
+.infoDiv{
+  margin-top: 100px;
+  margin-left: 380px;
+
+}
+
+@media screen and (max-width:600px){
+.infoDiv{
+  margin-top: 0;
+  margin-left: 0;
+
+}
+}
